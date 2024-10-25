@@ -25,7 +25,7 @@ Follow these steps to get the project up and running on your local machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/WashIt.git
+   git clone https://github.com/kumodN/WashIt.git
 2. Import the project into your preferred IDE (e.g., IntelliJ, Eclipse).
 3. Set up the database:
     Create a MySQL database named washit_db.
@@ -44,7 +44,11 @@ Follow these steps to get the project up and running on your local machine:
 4. Manage Orders (Admin): Laundry service providers can manage incoming orders, update their status, and view customer details.
 
 ## Screenshots
-Coming Soon
+
+![Screenshot (132)](https://github.com/user-attachments/assets/7682bcbf-f430-4d00-ba18-200b47ab3dce)
+![Screenshot (130)](https://github.com/user-attachments/assets/b3bbb66b-bd2f-4fa2-9d3b-9d5c0e5c039e)
+![Screenshot (133)](https://github.com/user-attachments/assets/1d744ebe-309f-4f95-b731-a8eda54973de)
+![Screenshot (134)](https://github.com/user-attachments/assets/4d8d9d19-8eba-4852-bb37-7b9248ca1fc9)
 
 ## Contributing
 If you'd like to contribute to WashIt, feel free to fork the repository and submit pull requests. Contributions are welcome for bug fixes, new features, or documentation updates.
@@ -55,7 +59,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Contact
 If you have any questions or issues, feel free to reach out:
 
-Email: support@washit.com
-GitHub: https://github.com/yourusername
+Email: kumodnenuk@gmail.com
+GitHub: https://github.com/kumodN
 
 Thank you for using WashIt!

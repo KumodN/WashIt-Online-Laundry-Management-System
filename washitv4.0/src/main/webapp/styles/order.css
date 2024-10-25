@@ -1,0 +1,103 @@
+@charset "UTF-8";
+
+/*------Order Form---------------*/
+.text-box {
+    text-align: center;
+    margin: 20px 0;
+    padding: 20px;
+}
+
+.text-box h2 {
+    color: #12195F; 
+    margin-bottom: 10px; 
+}
+
+.text-box p {
+    color: #555; 
+    font-size: 16px;
+}
+.order {
+  background-color: #FFFBF5;
+  color: #000000;
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 500px;
+  margin: 20px auto;
+}
+
+.order h2 {
+  text-align: center;
+  color: #12195F;
+}
+
+.order table {
+  width: 100%;
+}
+
+.order td {
+  padding: 10px;
+}
+
+.order select option {
+    background-color: #FFFFFF;
+    color: #12195F; 
+}
+
+.order input[type="text"],
+.order select {
+    background-color: #FFFFFF; 
+    color: #12195F;
+    padding: 10px; 
+    border: 1px solid #D1D1D1; 
+    border-radius: 5px; 
+    width: 100%;
+    font-size: 16px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
+    transition: box-shadow 0.3s ease; 
+}
+
+.order input[type="text"]:hover,
+.order select:hover {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.order input[type="text"]:focus,
+.order select:focus {
+    border-color: #12195F;
+    outline: none; 
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.order input[type="submit"] {
+  background-color: #FF6C0C;
+  color: #FFFFFF; 
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: box-shadow 0.3s ease, background-color 0.2s ease;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.order input[type="submit"]:hover {
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+}
+
+.order input[type="submit"]:active {
+  background-color: #E85D0A;
+}
+.view-orders-button {
+    background-color: #FFFBF5; 
+    color: black; 
+    padding: 10px 20px;
+    text-decoration: none; 
+    border: 1px solid #D1D1D1; 
+    border-radius: 5px;
+    margin-left: 10px; 
+    transition: background-color 0.5s ease, box-shadow 0.5s ease;
+}
+
+.view-orders-button:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
